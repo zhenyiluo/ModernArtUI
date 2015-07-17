@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MordenArtUI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">More information</string>
+    <string name="explore">Explore</string>
+    <string name="not_now">Not Now</string>
+    <string name="dialog_question">Want to explore more?</string>
+    <string name="dialog_description">More information</string>
+</resources>
